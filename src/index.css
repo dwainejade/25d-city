@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+  user-select: none;
+  -webkit-user-select: none;
+  min-width: none;
+}
